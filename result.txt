@@ -1,0 +1,214 @@
+
+
+plot_name {'bag': 65.17, 'trousers': 90.19, 'sleeve': 88.91, 'hat': 97.5, 'age': 97.02, 'gender': 87.96, 'position': 82.62, 'glasses': 83.99, 'longcoat': 95.88, 'boots': 99.47}
+
+
+plot_name {'age': 96.49, 'gender': 68.96, 'hat': 97.13, 'bag': 52.87, 'boots': 99.45, 'sleeve': 70.01, 'longcoat': 95.52, 'position': 62.71, 'glasses': 75.36, 'trousers': 81.65}
+plot_name {'bag': 53.87, 'trousers': 83.29, 'sleeve': 78.12, 'hat': 97.13, 'age': 96.4, 'gender': 68.31, 'position': 65.77, 'glasses': 75.7, 'longcoat': 95.52, 'boots': 99.45}
+sum_accuracy 813.56
+plot_name {'bag': 52.52, 'trousers': 83.89, 'sleeve': 78.68, 'hat': 97.13, 'age': 96.38, 'gender': 72.18, 'position': 70.48, 'glasses': 77.68, 'longcoat': 95.52, 'boots': 99.45}
+sum_accuracy 823.91
+plot_name {'bag': 51.51, 'trousers': 84.14, 'sleeve': 80.62, 'hat': 97.12, 'age': 95.94, 'gender': 74.69, 'position': 71.85, 'glasses': 77.96, 'longcoat': 95.52, 'boots': 99.45}
+sum_accuracy 828.8
+plot_name {'bag': 52.56, 'trousers': 84.99, 'sleeve': 79.79, 'hat': 97.1, 'age': 96.4, 'gender': 76.02, 'position': 73.34, 'glasses': 78.51, 'longcoat': 95.52, 'boots': 99.45}
+sum_accuracy 833.6800000000001
+plot_name {'bag': 55.06, 'trousers': 85.06, 'sleeve': 79.1, 'hat': 97.09, 'age': 96.26, 'gender': 74.63, 'position': 71.33, 'glasses': 77.82, 'longcoat': 95.52, 'boots': 99.45}
+sum_accuracy 831.3200000000002
+plot_name {'bag': 53.38, 'trousers': 86.03, 'sleeve': 82.64, 'hat': 97.09, 'age': 96.06, 'gender': 74.04, 'position': 74.67, 'glasses': 78.59, 'longcoat': 95.57, 'boots': 99.45}
+sum_accuracy 837.5199999999999
+plot_name {'bag': 57.13, 'trousers': 86.44, 'sleeve': 82.35, 'hat': 97.09, 'age': 95.74, 'gender': 77.5, 'position': 73.39, 'glasses': 79.24, 'longcoat': 95.54, 'boots': 99.45}
+sum_accuracy 843.8699999999999
+plot_name {'bag': 57.44, 'trousers': 86.43, 'sleeve': 84.8, 'hat': 97.09, 'age': 96.18, 'gender': 79.49, 'position': 76.26, 'glasses': 79.18, 'longcoat': 95.56, 'boots': 99.45}
+sum_accuracy 851.8800000000001
+plot_name {'bag': 57.1, 'trousers': 87.0, 'sleeve': 83.98, 'hat': 97.08, 'age': 96.27, 'gender': 79.93, 'position': 69.55, 'glasses': 79.7, 'longcoat': 95.55, 'boots': 99.45}
+sum_accuracy 845.61
+plot_name {'bag': 56.53, 'trousers': 87.24, 'sleeve': 83.84, 'hat': 97.06, 'age': 96.26, 'gender': 80.53, 'position': 78.75, 'glasses': 79.78, 'longcoat': 95.56, 'boots': 99.45}
+sum_accuracy 855.0
+plot_name {'bag': 54.0, 'trousers': 87.56, 'sleeve': 85.05, 'hat': 97.1, 'age': 96.29, 'gender': 77.32, 'position': 78.95, 'glasses': 79.68, 'longcoat': 95.62, 'boots': 99.45}
+sum_accuracy 851.02
+plot_name {'bag': 58.08, 'trousers': 87.57, 'sleeve': 85.67, 'hat': 97.13, 'age': 96.43, 'gender': 81.78, 'position': 79.86, 'glasses': 79.67, 'longcoat': 95.62, 'boots': 99.45}
+sum_accuracy 861.26
+plot_name {'bag': 53.56, 'trousers': 87.69, 'sleeve': 85.75, 'hat': 97.11, 'age': 96.44, 'gender': 83.08, 'position': 80.2, 'glasses': 79.84, 'longcoat': 95.61, 'boots': 99.45}
+sum_accuracy 858.73
+plot_name {'bag': 57.18, 'trousers': 88.26, 'sleeve': 85.12, 'hat': 97.13, 'age': 96.33, 'gender': 83.04, 'position': 79.68, 'glasses': 79.87, 'longcoat': 95.64, 'boots': 99.45}
+sum_accuracy 861.7
+plot_name {'bag': 59.13, 'trousers': 87.94, 'sleeve': 83.53, 'hat': 97.15, 'age': 96.39, 'gender': 83.69, 'position': 80.75, 'glasses': 79.98, 'longcoat': 95.69, 'boots': 99.45}
+sum_accuracy 863.7
+loss_meter , previous_loss： 0.9169277116656303 1e+100
+
+
+The 1 epoch train finish.....
+plot_name {'glasses': 59.58, 'age': 69.45, 'position': 31.08, 'sleeve': 47.56, 'boots': 13.53, 'bag': 39.63, 'trousers': 23.39, 'longcoat': 82.96, 'gender': 86.69, 'hat': 5.06}
+sum_accuracy 458.92999999999995
+plot_name {'glasses': 57.37, 'age': 70.55, 'position': 30.76, 'sleeve': 46.93, 'boots': 12.61, 'bag': 38.27, 'trousers': 24.28, 'longcoat': 84.29, 'gender': 84.22, 'hat': 5.34}
+sum_accuracy 454.62
+plot_name {'glasses': 57.38, 'age': 69.67, 'position': 31.39, 'sleeve': 46.27, 'boots': 12.62, 'bag': 39.49, 'trousers': 22.66, 'longcoat': 82.75, 'gender': 84.58, 'hat': 6.06}
+sum_accuracy 452.87
+plot_name {'glasses': 57.51, 'age': 71.14, 'position': 31.02, 'sleeve': 47.67, 'boots': 12.22, 'bag': 38.19, 'trousers': 23.16, 'longcoat': 84.33, 'gender': 86.87, 'hat': 5.96}
+sum_accuracy 458.07000000000005
+plot_name {'glasses': 57.28, 'age': 65.88, 'position': 30.75, 'sleeve': 47.14, 'boots': 13.53, 'bag': 38.98, 'trousers': 23.91, 'longcoat': 84.84, 'gender': 73.22, 'hat': 5.73}
+sum_accuracy 441.26000000000005
+plot_name {'glasses': 59.37, 'age': 66.66, 'position': 31.16, 'sleeve': 47.44, 'boots': 14.0, 'bag': 38.51, 'trousers': 22.48, 'longcoat': 82.35, 'gender': 86.68, 'hat': 5.57}
+sum_accuracy 454.22
+
+The 1 epoch train finish.....
+plot_name {'age': 1.97, 'longcoat': 91.7, 'hat': 26.13, 'position': 39.02, 'gender': 85.21, 'glasses': 44.86, 'bag': 28.32, 'trousers': 26.75, 'sleeve': 56.19, 'boots': 25.87}
+sum_accuracy 426.02
+plot_name {'age': 2.13, 'longcoat': 92.4, 'hat': 25.35, 'position': 39.17, 'gender': 87.04, 'glasses': 44.92, 'bag': 26.8, 'trousers': 26.35, 'sleeve': 55.81, 'boots': 24.72}
+sum_accuracy 424.69000000000005
+plot_name {'age': 1.96, 'longcoat': 92.26, 'hat': 27.16, 'position': 39.17, 'gender': 86.72, 'glasses': 45.25, 'bag': 29.2, 'trousers': 28.38, 'sleeve': 55.3, 'boots': 25.12}
+sum_accuracy 430.52
+plot_name {'age': 1.99, 'longcoat': 92.2, 'hat': 26.26, 'position': 38.93, 'gender': 86.12, 'glasses': 45.52, 'bag': 29.11, 'trousers': 29.81, 'sleeve': 55.68, 'boots': 28.16}
+sum_accuracy 433.7800000000001
+plot_name {'age': 2.06, 'longcoat': 91.77, 'hat': 26.36, 'position': 38.91, 'gender': 86.13, 'glasses': 45.91, 'bag': 28.74, 'trousers': 28.27, 'sleeve': 55.96, 'boots': 27.83}
+sum_accuracy 431.9399999999999
+
+
+hat recall: 30.662020905923345 88 287
+glass recall: 69.35876623376623 1709 2464
+longcoat recall: 61.830357142857146 277 448
+plot_name {'longcoat': 24.644128113879002, 'trousers': 86.57, 'age': 96.31, 'gender': 79.29, 'hat': 12.464589235127479, 'position': 76.61, 'sleeve': 84.49, 'boots': nan, 'glasses': 46.7578659370725, 'bag': 55.68}
+sum_accuracy nan
+hat recall: 20.209059233449477 58 287
+glass recall: 67.9788961038961 1675 2464
+longcoat recall: 63.169642857142854 283 448
+plot_name {'longcoat': 27.290260366441657, 'trousers': 86.99, 'age': 96.4, 'gender': 80.5, 'hat': 24.47257383966245, 'position': 76.7, 'sleeve': 84.05, 'boots': nan, 'glasses': 49.22127534528357, 'bag': 56.57}
+sum_accuracy nan
+hat recall: 26.13240418118467 75 287
+glass recall: 64.12337662337663 1580 2464
+longcoat recall: 56.026785714285715 251 448
+plot_name {'longcoat': 32.015306122448976, 'trousers': 87.41, 'age': 96.34, 'gender': 80.81, 'hat': 16.5929203539823, 'position': 77.48, 'sleeve': 84.73, 'boots': nan, 'glasses': 50.57618437900128, 'bag': 56.18}
+sum_accuracy nan
+----------------------------------------
+sum_accuracy 806.38
+hat recall: 0.0 0 287
+hat precision: nan
+glass recall: 7.589285714285714 187 2464
+glass precision: 71.92307692307692
+longcoat recall: 0.0 0 448
+longcoat precision: nan
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 52.74, 'sleeve': 78.96, 'hat': 97.13, 'boots': 99.45, 'age': 96.48, 'position': 66.39, 'trousers': 83.04, 'longcoat': 95.52, 'gender': 71.5, 'glasses': 76.5}
+sum_accuracy 817.7099999999999
+hat recall: 0.0 0 287
+hat precision: nan
+glass recall: 14.285714285714286 352 2464
+glass precision: 72.87784679089027
+longcoat recall: 0.0 0 448
+longcoat precision: nan
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 54.41, 'sleeve': 80.93, 'hat': 97.13, 'boots': 99.45, 'age': 96.45, 'position': 68.69, 'trousers': 84.18, 'longcoat': 95.52, 'gender': 73.31, 'glasses': 77.57}
+sum_accuracy 827.6399999999999
+hat recall: 0.0 0 287
+hat precision: nan
+glass recall: 28.61201298701299 705 2464
+glass precision: 64.61961503208066
+longcoat recall: 0.0 0 448
+longcoat precision: nan
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 54.04, 'sleeve': 82.36, 'hat': 97.13, 'boots': 99.45, 'age': 96.4, 'position': 71.56, 'trousers': 85.1, 'longcoat': 95.52, 'gender': 73.86, 'glasses': 78.55}
+sum_accuracy 833.97
+hat recall: 0.0 0 287
+hat precision: nan
+glass recall: 24.63474025974026 607 2464
+glass precision: 70.17341040462428
+longcoat recall: 0.0 0 448
+longcoat precision: nan
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 55.26, 'sleeve': 82.26, 'hat': 97.13, 'boots': 99.45, 'age': 96.31, 'position': 73.07, 'trousers': 85.48, 'longcoat': 95.52, 'gender': 76.3, 'glasses': 78.85}
+sum_accuracy 839.6299999999999
+hat recall: 0.0 0 287
+hat precision: 0.0
+glass recall: 23.98538961038961 591 2464
+glass precision: 72.33782129742963
+longcoat recall: 0.0 0 448
+longcoat precision: nan
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 56.09, 'sleeve': 83.33, 'hat': 97.12, 'boots': 99.45, 'age': 96.37, 'position': 73.81, 'trousers': 85.57, 'longcoat': 95.52, 'gender': 77.2, 'glasses': 79.01}
+sum_accuracy 843.47
+hat recall: 0.0 0 287
+hat precision: nan
+glass recall: 28.6525974025974 706 2464
+glass precision: 71.16935483870968
+longcoat recall: 0.0 0 448
+longcoat precision: nan
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 56.46, 'sleeve': 83.12, 'hat': 97.13, 'boots': 99.45, 'age': 96.47, 'position': 74.74, 'trousers': 86.1, 'longcoat': 95.52, 'gender': 78.22, 'glasses': 79.56}
+sum_accuracy 846.7700000000001
+hat recall: 0.0 0 287
+hat precision: 0.0
+glass recall: 30.560064935064936 753 2464
+glass precision: 69.85157699443414
+longcoat recall: 0.0 0 448
+longcoat precision: nan
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 55.76, 'sleeve': 84.84, 'hat': 97.11, 'boots': 99.45, 'age': 96.33, 'position': 75.12, 'trousers': 86.91, 'longcoat': 95.52, 'gender': 78.62, 'glasses': 79.64}
+sum_accuracy 849.3
+hat recall: 0.34843205574912894 1 287
+hat precision: 50.0
+glass recall: 26.136363636363637 644 2464
+glass precision: 73.43215507411631
+longcoat recall: 1.1160714285714286 5 448
+longcoat precision: 83.33333333333333
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 57.34, 'sleeve': 85.16, 'hat': 97.13, 'boots': 99.45, 'age': 96.36, 'position': 76.32, 'trousers': 86.99, 'longcoat': 95.56, 'gender': 79.87, 'glasses': 79.47}
+sum_accuracy 853.6500000000001
+hat recall: 0.34843205574912894 1 287
+hat precision: 100.0
+glass recall: 32.42694805194805 799 2464
+glass precision: 70.58303886925795
+longcoat recall: 2.455357142857143 11 448
+longcoat precision: 84.61538461538461
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 57.75, 'sleeve': 84.72, 'hat': 97.14, 'boots': 99.45, 'age': 96.45, 'position': 76.8, 'trousers': 87.39, 'longcoat': 95.61, 'gender': 80.05, 'glasses': 80.02}
+sum_accuracy 855.38
+hat recall: 0.34843205574912894 1 287
+hat precision: 33.333333333333336
+glass recall: 36.607142857142854 902 2464
+glass precision: 68.33333333333333
+longcoat recall: 3.5714285714285716 16 448
+longcoat precision: 80.0
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 58.35, 'sleeve': 85.52, 'hat': 97.12, 'boots': 99.45, 'age': 96.39, 'position': 78.2, 'trousers': 87.65, 'longcoat': 95.64, 'gender': 80.12, 'glasses': 80.2}
+sum_accuracy 858.64
+hat recall: 0.6968641114982579 2 287
+hat precision: 66.66666666666667
+glass recall: 35.38961038961039 872 2464
+glass precision: 69.76
+longcoat recall: 2.455357142857143 11 448
+longcoat precision: 78.57142857142857
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 57.85, 'sleeve': 85.57, 'hat': 97.14, 'boots': 99.45, 'age': 96.24, 'position': 78.17, 'trousers': 87.7, 'longcoat': 95.6, 'gender': 81.41, 'glasses': 80.3}
+sum_accuracy 859.4300000000001
+hat recall: 0.6968641114982579 2 287
+hat precision: 40.0
+glass recall: 31.899350649350648 786 2464
+glass precision: 71.64995442114859
+longcoat recall: 3.125 14 448
+longcoat precision: 87.5
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 58.42, 'sleeve': 85.79, 'hat': 97.12, 'boots': 99.45, 'age': 96.44, 'position': 78.25, 'trousers': 87.98, 'longcoat': 95.64, 'gender': 81.45, 'glasses': 80.11}
+sum_accuracy 860.65
+hat recall: 0.6968641114982579 2 287
+hat precision: 66.66666666666667
+glass recall: 30.194805194805195 744 2464
+glass precision: 75.07568113017155
+longcoat recall: 2.0089285714285716 9 448
+longcoat precision: 56.25
+boot recall recall: 0.0 0 55
+boot precision: nan
+plot_name {'bag': 57.86, 'sleeve': 86.24, 'hat': 97.14, 'boots': 99.45, 'age': 96.41, 'position': 78.71, 'trousers': 88.41, 'longcoat': 95.54, 'gender': 82.44, 'glasses': 80.33}
+sum_accuracy 862.53
+
